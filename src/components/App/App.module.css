@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Main {
+  background-color: lightpink;
+  min-height: 100vh;
+}
+
+.marginAuto {
+  margin: auto 0;
+}
